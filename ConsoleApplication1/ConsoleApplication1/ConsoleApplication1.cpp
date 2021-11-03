@@ -6,7 +6,11 @@
 
 int main()
 {
+<<<<<<< HEAD
     std::cout << "Pozdrav iz aplikacije od Ivan Lukac, index br:0165078906"; 
+=======
+    std::cout << "Pozdrav iz aplikacije od Ivan Lukac"; 
+>>>>>>> 5d9b6a6... First Commit
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
